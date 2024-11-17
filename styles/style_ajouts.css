@@ -1,0 +1,54 @@
+header{
+  width: 30%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+header span::first-letter{
+  color: white;
+  font-size: 35px;
+}
+body{
+  background-image: url("../images/pexels-pixabay-47730.jpg");
+  background-size: 100%
+}
+footer{
+  background-image: url("https://img.uefa.com/imgml/uefacom/ucl/2021/logos/logo_dark.svg ");
+  background-size: 3.5%;
+  background-repeat: no-repeat;
+  padding-left: 5%
+  
+}
+#cartonJaune{
+  display: block;
+  height: 10px;
+  position: relative;
+  left: 37px;
+  
+}
+#carton_Rouge{
+  display: block;
+  height: 10px;
+  position: relative;
+  left: 37px;
+  
+}
+label{
+  position: relative;
+}
+#formation{
+  width: 10%
+}
+#c{
+  display: block;
+  height: 10px;
+  position: relative;
+  left: 3px;
+}
+#selection{
+  text-align: center;
+}
+div#terrain div.capitaine{
+  border-radius: 0px;
+  border-color:rgba(204, 0, 0,0.7);
+}
